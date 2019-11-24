@@ -1,0 +1,39 @@
+<font class=autor>
+
+Marek Grzybowski
+
+</font>
+
+<br><br>
+
+<font class=artykul>
+
+
+
+</font>
+
+<br>
+
+
+*****
+
+<font class=rozdzial>
+
+
+</font>
+
+*****
+
+<center><img src="artykuly/zarz-kadrami/bad-kul-org/rys1.gif" class=obrazek border=1></center>
+
+*****
+
+<hr class=kreska width=85% align=center>
+
+artykuly/raport/
+artykuly/zarz-firma/
+artykuly/zarz-kadrami/
+
+class=obrazek 
+
+align=center

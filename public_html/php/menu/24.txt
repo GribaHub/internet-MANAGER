@@ -1,0 +1,96 @@
+Nobliœci
+artykuly/nobel/
+
+William Sharpe - nagroda NOBLA za rok 1990
+sharpe.htm
+
+Markowitz Harry - nagroda NOBLA za rok 1990
+markowitz.htm
+
+Miller Merton - nagroda NOBLA za rok 1990
+miller.htm
+
+Becker Gary S. - nagroda NOBLA za rok 1992
+becker.htm
+
+Allais Maurice - nagroda NOBLA za rok 1988
+allais.htm
+
+Solow Robert M. - nagroda NOBLA za rok 1987
+solow.htm
+
+Buchanan James McGill - nagroda NOBLA za rok 1986
+buchanan.htm
+
+Debreu Gerard- nagroda NOBLA za rok 1983
+debreu.htm
+
+Stone Richard- nagroda NOBLA za rok 1984
+stone.htm
+
+Modigliani Franco - nagroda NOBLA za rok 1985
+modigliani.htm
+
+Stigler George - nagroda NOBLA za rok 1982
+stigler.htm
+
+Tobin James - nagroda NOBLA za rok 1981
+tobin.htm
+
+Klein Lawrence R. - nagroda NOBLA za rok 1980
+klein.htm
+
+Hayek Fridrich A. von - nagroda NOBLA za rok 1974
+hayek.htm
+
+Myrdal Gunnar - nagroda NOBLA za rok 1974
+myrdal.htm
+
+Schultz Theodore - nagroda NOBLA za rok 1979
+schultz.htm
+
+Lewis Arthur W. - nagroda NOBLA za rok 1979
+lewis.htm
+
+Koopmans Tjalling C. - nagroda NOBLA za rok 1975
+koopmans.htm
+
+Kantorowicz Leonid - nagroda NOBLA za rok 1975
+kantorowicz.htm
+
+Friedman Milton - nagroda NOBLA za rok 1976
+friedman.htm
+
+Ohlin Bertil - nagroda NOBLA za rok 1977
+ohlin.htm
+
+Meade James - nagroda NOBLA za rok 1977
+meade.htm
+
+Arrow Kenneth J. - nagroda NOBLA za rok 1972
+arrow.htm
+
+Leontief Wassily - nagroda NOBLA za rok 1973
+leontief.htm
+
+Simon Herbert A. - nagroda NOBLA za rok 1978
+simon.htm
+
+Hicks John R. - nagroda NOBLA za rok 1972
+hicks.htm
+
+Finn E. Kydland i Edward C. Prescott - nagroda NOBLA za rok 2004
+cykle.htm
+
+Ragner Frisch - nagroda NOBLA za rok 1969
+frisch.htm
+
+Jan Timbergen - nagroda NOBLA za rok 1969
+timbergen.htm
+
+Simon Kuznets - nagroda NOBLA za rok 1971
+kuznets.htm
+
+Paul Samuelson - nagroda NOBLA za rok 1970
+samuelson.htm
+*

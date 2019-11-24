@@ -1,0 +1,30 @@
+Felietony
+artykuly/felietony/
+
+How to Lead Now
+lead.htm
+
+Si³a wiedzy
+sila.htm
+
+Poszanowanie czasu w³asnego i czasu klienta
+czas.htm
+
+ERGONOMICS VS. MANAGEMENT
+imergonomia.htm
+
+Dusza firmy
+dusza-firmy.htm
+
+Dwa umys³y w organizacji
+dwa-umysly.htm
+
+Strategia geniuszu
+stra-ge.htm
+
+Anti-equilibrium
+anti-eq.htm
+
+Czas na tygrysy
+tygrysy.htm
+*

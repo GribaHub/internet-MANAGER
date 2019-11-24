@@ -1,0 +1,48 @@
+Marketing
+artykuly/marketing/
+
+A new world for brand managers
+brand.htm
+
+Firma Deloitte partnerem akcji Eksportuj Legalnie 
+intelekt.htm
+
+Coraz wiêkszy apetyt konsumentów na stosowanie nowoczesnych technologii
+apetyt.htm
+
+The executive's guide to better listening
+guide.htm
+
+Zmiany w handlu internetowym
+e-handel.htm
+
+Typy planów marketingowych
+typy-plan.htm
+
+Sponsoring jako nowa forma promocji
+sponsoring.htm
+
+Reklama
+reklama.htm
+
+Dzia³ania promocyjne szkó³ i uczelni
+prom-uczelni.htm
+
+Okreœlenie wizji organizacji
+okr-wizji.htm
+
+Cele strategiczne firmy
+cele-firmy.htm
+
+Strategia marketingowa firmy
+strat-firmy.htm
+
+Promocja kosmetyków
+maniowska-kos.htm
+
+Promocja
+maniowska-prom.htm
+
+Reklamy w czasopismach
+reklamy.htm
+*

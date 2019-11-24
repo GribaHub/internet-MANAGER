@@ -1,0 +1,51 @@
+CRM
+artykuly/crm/
+
+Customer loyalty programs in Germany
+customer.htm
+
+Kilka s³ów o wdra¿aniu CRM
+crmsme.htm
+
+Your Customer, Your Boss (pobierz plik)
+boss.htm
+
+Organizacja projektu CRM
+projektcrm.htm
+
+CONTACT CENTER dla firm
+call.htm
+
+Portale korporacyjne FileNET
+portale.htm
+
+Zarz¹dzanie kontaktami z klientami  wed³ug CGEY
+crm.htm
+
+UPS  w Polsce ma DIAD (system informacji o dostawach)
+diad.htm
+
+Promocja sprzeda¿y
+prom-spr.htm
+
+TMI radzi - jak radziæ sobie z poczt¹ elektroniczn¹?
+tmi.htm
+
+CRM Analityczny wed³ug HP
+crm-hp.htm
+
+IRM wed³ug Digital One
+irm-digital.htm
+
+Zarz¹dzanie wartoœci¹ klienta
+zarz-wart.htm
+
+Analiza op³acalnoœci nabywców w marketingu relacji
+anal-op.htm
+
+NonStop  - Sprzeda¿ przez internet
+sp-int.htm
+
+Marketing bezpoœredni
+mar-bezp.htm
+*

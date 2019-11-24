@@ -1,0 +1,63 @@
+/* CSS */ 
+
+ body.main {background: url() #000000 fixed no-repeat top left}
+ font.tmisja { font-size: 10pt; letter-spacing: 1px; font-family: verdana; font-weight: bold; font-style: italic; color: black}
+ font.data { text-decoration: none; font-size: 8pt; font-style: italic; font-weight: normal; font-family: verdana; color: #000000; background: #ffffbb}
+ font.tytul { font-size: 12pt; letter-spacing: 1px; font-style: normal; font-weight: bold; font-family: arial; color: #000000}
+ font.rozdzial { font-size: 10pt; font-family: verdana; font-weight: bold; font-style: normal; text-align: justify; color: black}
+ font.autor { font-size: 8pt; font-style: italic; font-weight: normal; font-family: verdana; color: #000000}
+ font.artykul { font-size: 12pt; letter-spacing: 1px; font-style: normal; font-weight: bold; font-family: arial; color: #000000}
+ font.przypis { font-size: 8pt; font-family: verdana; font-weight: normal; font-style: normal; text-align: justify; color: black}
+ font.pismo { font-size: 8pt; font-family: verdana; font-weight: normal; font-style: normal; text-align: justify; color: black}
+ font.znak { text-decoration: none; font-size: 6pt; font-family: verdana; font-weight: bold; font-style: normal; text-align: justify; color: #ff0000}
+ font.nowy { text-decoration: none; font-size: 8pt; font-family: verdana; font-weight: normal; font-style: italic; text-align: justify; color: #ff0000}
+
+ font.bfont { text-decoration: none; font-size: 8pt; font-style: italic; font-weight: bold; font-family: verdana; color: #000000; background: #ffffbb}
+ font.stopka { text-decoration: none; font-size: 8pt; font-style: italic; font-weight: bold; font-family: verdana; color: #000000; background: #ffffff}
+
+ a.link { text-decoration: none; font-size: 10pt; font-style: italic; font-weight: normal; font-family: verdana; color: #000000}
+ a.link:hover {text-decoration: underline; color: #000000}
+
+ a.nlink { text-decoration: none; font-size: 8pt; font-style: italic; font-weight: normal; font-family: verdana; color: #000000; background: #ffffbb}
+ a.nlink:hover {text-decoration: none; color: #ff0000; background: #ffffbb}
+
+ a.firma { text-decoration: none; font-size: 8pt; font-style: italic; font-weight: normal; font-family: verdana; color: red}
+ a.firma:hover {text-decoration: underline; color: red}
+
+ a.przypis { text-decoration: none; font-size: 6pt; font-family: verdana; font-weight: normal; font-style: normal; text-align: justify; color: #ff0000}
+ a.przypis:hover { color: #000094}
+
+ p.poleca { font-size: 14pt; letter-spacing: 1px; font-family: verdana; font-weight: normal; font-style: italic; text-align: none; color: #000000}
+ p.glowka { font-size: 8pt; font-family: verdana; font-weight: bold; font-style: normal; text-align: justify; color: black}
+ p.tekst { font-size: 8pt; font-family: verdana; font-weight: normal; font-style: normal; text-align: justify; color: black}
+ p.dodatek { font-size: 8pt; font-family: verdana; font-weight: normal; font-style: italic; text-align: justify; color: black}
+ p.nazwa { font-size: 8pt; font-family: verdana; font-weight: bold; font-style: normal; text-align: center; color: black}
+ p.zrodlo { font-size: 8pt; font-family: verdana; font-weight: normal; font-style: italic; text-align: right; color: black}
+
+ hr.kreska 	{
+		height: 0; 
+		border-width: 1px 0 0 0; /* remove all borders except the top one */ 
+		border-style: solid; 
+		border-color: #000000; 
+		} 
+
+ hr.nic 	{
+		height: 0; 
+		border-width: 1px 0 0 0; /* remove all borders except the top one */ 
+		border-style: solid; 
+		border-color: #ffffbb; 
+		}
+
+ img.obrazek {border-color: #000000}
+
+ ul.punkty { list-style-type: decimal; color: black}
+ ul.koleczko { list-style-type: disc; color: black}
+ ul.kolko { list-style-type: disc; color: #ffff00}
+
+ li { font-size: 8pt; font-family: verdana; font-weight: normal; font-style: normal; text-align: justify}
+
+ div.opcjt {POSITION:Absolute; VISIBILITY: Hidden; WIDTH:150px; HEIGHT:323px; LEFT:11px; TOP:0px; background-color: #000000; text-decoration: none; font-size: 8pt; font-style: normal; font-weight: normal; font-family: verdana; color: #ddffdd; cursor: pointer; Z-INDEX: 1}
+ div.opcje {POSITION:Absolute; VISIBILITY: Hidden; WIDTH:150px; HEIGHT:13px; LEFT:11px; TOP:0px; BACKGROUND-COLOR: #ff0000; text-decoration: none; font-size: 8pt; font-style: normal; font-weight: normal; font-family: verdana; color: #ddffdd; cursor: pointer; Z-INDEX: 2}
+ div.opcja {POSITION:Absolute; VISIBILITY: Hidden; WIDTH:150px; HEIGHT:13px; LEFT:11px; TOP:0px; BACKGROUND-COLOR: #5555aa; text-decoration: none; font-size: 8pt; font-style: normal; font-weight: normal; font-family: verdana; color: #ddffdd; cursor: pointer; Z-INDEX: 2}
+
+ .okienko {POSITION:Absolute; VISIBILITY: Visible; WIDTH:10px; HEIGHT:10px; LEFT:158px; TOP:10px; Z-INDEX: 3}

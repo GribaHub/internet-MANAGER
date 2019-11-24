@@ -1,0 +1,54 @@
+Informatyka w Firmie
+artykuly/informatyka/
+
+DIS gains flexibility through storage virtualization with IBM
+dis.htm
+
+Pioneer Petroleums receives a powerful messaging and collaboration platform
+ibm.htm
+
+IBM e-learning solution
+e-learning.htm
+
+Interview: Dr. Cindy Gordon and Dr. José Claudio Terra on Corporate Portals 
+portals.htm
+
+UPS Electronic Commerce Strategy 
+ups.htm
+
+MS Solutions AXAPTA w Kredyt Bank
+axapty.htm
+
+Workflow wed³ug firmy FileNET
+workflow.htm
+
+EDI XXI wieku
+gaec-edi.htm
+
+Doculabs ocenia systemy zarz¹dzania dokumentami
+doc.htm
+
+COMP Rzeszów z Oracle w GUS
+oraclegus.htm
+
+IFS Applications 2002 - Packaged for Payback(tm)
+ifs2002.htm
+
+IBM w PKO BP
+ibmpkobp.htm
+
+Geac  w firmie ROLESKI
+roleski.htm
+
+Oracle w PKP
+oracle.htm
+
+Partex wdra¿a mySAP CRM przy pomocy IMG
+partex.htm
+
+Siemens i SAP w Elektrowni P¹tnów-Adamów-Konin
+siemens.htm
+
+TETA w  Auchan
+teta.htm
+*
